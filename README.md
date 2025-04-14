@@ -1,4 +1,4 @@
-# Delta For PC - Best Lua Sctipting Tool Executor
+# Delta For PC - Best Lua Scripting Tool Executor
 ---
 Delta Executor is an open-source scripting tool designed to help users explore and experiment with code execution in a controlled, educational environment. It is intended solely for learning, testing, and refining coding skills. ✨  
 
