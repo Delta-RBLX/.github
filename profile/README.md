@@ -4,6 +4,7 @@ Delta Executor is an open-source scripting tool designed to help users explore a
 
 This tool provides a safe and efficient way to execute scripts while ensuring compliance with ethical guidelines. Use it responsibly to enhance your understanding of scripting languages and improve your development workflow.
 
+[![Download Delta](https://img.shields.io/badge/Download-Delta-blueviolet)](https://rblxexecutors.github.io/executors/delta/)
 ---
 
 ## Features 🎮
